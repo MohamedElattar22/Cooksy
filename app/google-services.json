@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460303611681",
+    "project_id": "cooksy-16c86",
+    "storage_bucket": "cooksy-16c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460303611681:android:502e12ca3205f90f423060",
+        "android_client_info": {
+          "package_name": "com.example.cooksy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB09nJaRoN92zLCAA4fNiLz9n-655ZXyyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
